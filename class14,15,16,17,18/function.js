@@ -114,4 +114,4 @@
     let newFunc = name => console.log(name);  // Arrow
 
 
-    newFunc('Cipher', this);  // Argument
+    newFunc('Cipher', this);   // Argument
