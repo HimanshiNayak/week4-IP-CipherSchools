@@ -1,6 +1,6 @@
 // Functions
 
-// ES5  - Functionally scoped  (var)
+// ES5  -  Functionally scoped  (var)
 // ES6  -  Block Scoped (Let const)
 
 // var abc = 10;
