@@ -11,7 +11,7 @@
 //     let xyz = "block scoped";
 //     console.log(abc)
 //     Block Scope
-//     if(1){  //(0)  not defined
+//     if(1){ //(0)  not defined
 //         let xyz = "block scoped";
 //         var xyz = "block scoped";
 //         console.log('Inside It',xyz);
